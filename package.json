@@ -10,15 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "body-parser": "^1.17.2",
-    "convict": "^4.0.0",
+    "body-parser": "^1.18.2",
+    "convict": "^4.3.2",
     "express": "^4.15.4",
     "jsonwebtoken": "^7.4.3",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.5",
     "mysql2": "^1.4.2",
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
     "passport-jwt": "^3.0.0",
-    "sequelize": "^4.7.5"
+    "sequelize": "^4.17.2"
   }
 }
